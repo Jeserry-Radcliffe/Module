@@ -1,7 +1,8 @@
+@import "tailwindcss";
 *{
     margin:0px;
     padding:0px;
-    /* box-sizing: border-box; */
+    box-sizing: border-box;
 }
 html{
     scroll-behavior: smooth;
@@ -14,24 +15,26 @@ body{
 }
 .main{
     color: white;
-    padding:13% 50px 20% ;
+    padding:13% 0px 20%;
     background-color: #061415;
 }
 .main .p1 {
-   font-size: 50px;
+   font-size: 35px;
    font-weight: 100;
    text-align: center;
 }
 .main .p2{
-    font-size: 60px;
+    font-size: 30px;
     color:rgb(221, 197, 11);
     text-align: center;
 }
 .main .p3{
     padding:2% 20%;
     font-style: italic;;
-    text-align: center;
+    text-align: justify;
     font-weight: 100;
+    font-size: 15px;
+    padding-top: 10%;
 }
 .tbl-contents{
     box-sizing: border-box;
