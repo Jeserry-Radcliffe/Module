@@ -24,7 +24,7 @@ body{
    text-align: center;
 }
 .main .p2{
-    font-size: 30px;
+    font-size: 25px;
     color:rgb(221, 197, 11);
     text-align: center;
 }
@@ -32,18 +32,18 @@ body{
     padding:2% 20%;
     font-style: italic;;
     text-align: justify;
-    font-weight: 100;
+    /* font-weight: 50; */
     font-size: 15px;
     padding-top: 10%;
 }
 .tbl-contents{
     box-sizing: border-box;
     background-color: antiquewhite;
-    height:fit-content;
+    /* height:fit-content; */
 
     color:#061415;
-    padding:10% 30.5%  5%;
-    font-size: 60px;
+    /* padding:10% 7% 5%; */
+    /* font-size: 30px; */
     font-weight:100;
 }
 
